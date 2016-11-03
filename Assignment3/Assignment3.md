@@ -42,5 +42,23 @@ Herberg Stene was built by the patriarch known as Father Stene when he happened
  This has given the settlement sustenance and a solid ground for survival.
 
 Throughout the years many travelers have come and almost as many has left without
- the 
+ getting the opportunity to settle down in the safe haven. Father Stene's fear
+ of getting used and his general antisocial behaviour has come to the settlement's
+ benefit. He has made sure that only a select few deemed worthy by the Father himself
+ has gotten the chance to settle down. *"If you can contribute, you can stay"* and
+ *"We help our own"* has become a well known line amongst the people that has visited
+ Herberg Stene. 
 
+Multiple buildings and businesses has been built at Herberg Stene. The first building
+ has been repurposed as a hostel for travelers and merchants.
+
+![Picture of the main building](img/main_building.png "Made in paint by Even A. Nilsen")
+
+![Picture of Hei Sveis the blacksmith's workshop](img/hei_sveis.png "Made in paint by Even A. Nilsen")
+
+\newpage
+
+### Father Stene: The Patriarch ###
+After living a life alone before society broke down, Father Stene has become a surly
+ old man. Being the founder of the settlement, he has become somewhat of a dictator
+ calling all the shots from his mansion. 
